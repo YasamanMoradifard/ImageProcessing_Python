@@ -1,5 +1,5 @@
 # Image segmentation using python
-This repository contains functions used in image processing in a image processing + segmentation project.
+This repository contains functions used in a simple image segmentation/ object detection project.
 
 ### 0. Problem statement:
 > The aim is to segment various objects in an image. It is a pixel-wise classification problem, glassify the pixels into two groups: 1. Background and 2. objects/forgrounds. This project starts step by step from the followinf original image ro reach the segmented image:
